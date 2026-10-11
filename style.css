@@ -26,3 +26,9 @@ button {
 button:hover {
  background-color: #0056b3;
 }
+ 
+ .btn {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+ }
